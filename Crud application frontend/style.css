@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  table, th, td {
+    border: 1px solid #ebe7e7;
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background-color: #d0c8c8;
+  }
+  button{
+    margin: 0px 5px;
+    border-radius: 3px;
+    font-weight: bold;
+  }
+  button:hover{
+    background-color: rgb(167, 244, 244);
+  }
